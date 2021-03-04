@@ -42,53 +42,103 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### English Navigation ########################
-
 [[Languages.en.menu.main]]
-name = "Company"
+name = "about"
 pre = "#"
 url = "about"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Industries"
+name = "services"
+pre = "#"
+url = "services"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "team"
 pre = "#"
 url = "team"
-weight = 2
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "pricing"
+pre = "#"
+url = "pricing"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 3
+weight = 7
 
-<<<<<<< HEAD
-=======
+[[Languages.en.menu.main]]
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
 
 
->>>>>>> b732ae8d51927298e022e28cb13fcdb7bbb65d27
 ################### French Navigation ########################
-
 [[Languages.fr.menu.main]]
-name = "compagnie"
+name = "sur"
 pre = "#"
 url = "about"
 weight = 1
 
-
 [[Languages.fr.menu.main]]
-name = "les industries"
+name = "un service"
 pre = "#"
-url = "team"
+url = "services"
 weight = 2
 
+[[Languages.fr.menu.main]]
+name = "portefeuille"
+pre = "#"
+url = "portfolio"
+weight = 3
+
+[[Languages.fr.menu.main]]
+name = "équipe"
+pre = "#"
+url = "team"
+weight = 4
+
+[[Languages.fr.menu.main]]
+name = "tarification"
+pre = "#"
+url = "pricing"
+weight = 5
+
+[[Languages.fr.menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 6
 
 [[Languages.fr.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
-weight = 3
+weight = 7
 
-
+[[Languages.fr.menu.main]]
+name = "themefisher"
+pre = ""
+url = "https://themefisher.com/"
+weight = 8
 
 ############################# Default Parameters ##########################
 [params]
