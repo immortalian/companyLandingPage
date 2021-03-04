@@ -61,11 +61,8 @@ pre = "#"
 url = "contact"
 weight = 3
 
-<<<<<<< HEAD
-=======
 
 
->>>>>>> b732ae8d51927298e022e28cb13fcdb7bbb65d27
 ################### French Navigation ########################
 
 [[Languages.fr.menu.main]]
