@@ -1,4 +1,4 @@
 
-[submodule "themes/--force"]
-	path = themes/--force
+[submodule "themes/meghna-hugo"]
+	path = themes/meghna-hugo
 	url = https://github.com/immortalian/meghna-hugo
